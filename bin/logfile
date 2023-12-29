@@ -1,0 +1,65 @@
+Hill File -- ./drugs/quinidine/IC50_samples10.csv
+Celltype -- 2.000000
+Is_Dutta -- false
+Is_Print_Graph -- true
+Is_Using_Output -- true
+Basic_Cycle_Length -- 2000.000000
+Number_of_Pacing -- 1000
+Time_Step -- 0.100000
+Inet_Vm_Threshold -- -88.000000
+Writing_Step -- 2.000000
+Drug_Name -- quinidine
+Concentrations -- 3237,6474,9711
+Using O'Hara Rudy cell model
+Using M type cell
+Applying Drug Effect...
+Using initial condition from steady state!
+This has MPI version lower than 3.0
+Sample_ID:0  Count:10 Rank:0 
+Data: 47970.000000|0.630100|5751000000.000000|4.739000|4910.000000|1.415000|15950.000000|1.135000|8589.000000|1.527000|3489.000000|1.429000|980.900000|Sample_ID:1  Count:10 Rank:1 
+Data: Sample_ID:2  Count:10 Rank:2 
+Data: 0.817600|
+Using M type cell
+Applying Drug Effect...
+97820.000000|0.508100|389300.000000|1.547000|53220.000000|0.727300|18370.000000|3.960000|4109.000000|1.297000|13290.000000|Sample_ID:3  Count:10 Rank:3 
+Data: 21330.000000|0.909300|714200.000000|0.660200|4672.000000|Sample_ID:4  Count:10 Rank:4 
+Data: 31140.000000|0.767200|342100.000000|0.815200|5230.000000|1.123000|11830.000000|1.434000|7960.000000|1.521000|3393.000000|5198.000000|1.109000|11330.000000|1.553000|9542.000000|1.291000|3676.000000|1.118000|1158.000000|0.742100|
+1.256000|9700.000000|1.268000|3263.000000|1.532000|1080.000000|0.783900|
+2.087000|13630.000000|1.365000|8598.000000|1.404000|3405.000000|1.470000|1144.000000|0.747200|
+1.275000|908.500000|0.833900|
+Sample_ID:5  Count:10 Rank:5 
+Data: 37480.000000|0.641000|35100.000000|3.444000|5741.000000|1.087000|10690.000000|1.651000|Sample_ID:6  Count:10 Rank:6 
+Data: 81190.000000|0.482900|39960.000000|3.850000|5043.000000|1.219000|9903.000000|1.905000|11870.000000|1.111000|3301.000000|Sample_ID:7  Count:10 Rank:7 
+Data: 85100.000000|0.493300|5747000000.000000|4.854000|4906.000000|1.421000|12560.000000|1.503000|8143.000000|1.333000|3466.000000|1.350000|961.400000|0.889300|Sample_ID:8  Count:10 Rank:8 
+Data: Sample_ID:9  Count:10 Rank:9 
+Data: 53320.000000|0.609600|4034000.000000|0.666800|4213.000000|1.502000|12130.000000|1.594000|9870.000000|1.191000|3159.000000|1.281000|972.700000|0.787700|10630.000000|1.132000|3387.000000|1.261000|956.600000|0.794900|
+1.467000|1026.000000|0.772100|
+
+
+68910.000000|0.550000|125300000.000000|8.873000|4585.000000|1.361000|13520.000000|1.472000|9496.000000|1.328000|3866.000000|1.137000|817.400000|0.900400|
+Using initial condition from steady state!
+Using M type cell
+Applying Drug Effect...
+Using initial condition from steady state!
+Using M type cell
+Applying Drug Effect...
+Using initial condition from steady state!
+EAD happened in drug quinidine sample 8 concentration 6474.00
+EAD happened in drug quinidine sample 4 concentration 9711.00
+EAD happened in drug quinidine sample 9 concentration 9711.00
+EAD happened in drug quinidine sample 7 concentration 9711.00
+EAD happened in drug quinidine sample 0 concentration 9711.00
+EAD happened in drug quinidine sample 8 concentration 9711.00
+EAD total cases in processor 0: 1
+EAD total cases in processor 1: 0
+EAD total cases in processor 2: 0
+EAD total cases in processor 3: 0
+EAD total cases in processor 4: 1
+EAD total cases in processor 5: 0
+EAD total cases in processor 6: 0
+EAD total cases in processor 7: 1
+EAD total cases in processor 8: 2
+EAD total cases in processor 9: 1
+Zip file result_quinidine_20221105225706.zip moved succesfully to result/result_quinidine_20221105225706.zip!!
+Computation Time: 17.478523 minutes
+Total EAD case: 6

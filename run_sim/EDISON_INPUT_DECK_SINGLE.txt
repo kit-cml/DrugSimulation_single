@@ -1,0 +1,12 @@
+Simulation_Mode = 0
+Celltype = 0
+Is_Dutta = 1
+Is_Using_Output = 1
+Is_Print_Graph = 1
+Basic_Cycle_Length = 2000.0
+Number_of_Pacing = 1000
+Time_Step = 0.1
+Write_Step = 2.0
+Inet_Vm_Threshold = -88.0
+Drug_Name = quinidine
+Concentrations = 3237,6474,9711
